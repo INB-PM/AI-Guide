@@ -31,8 +31,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
     >
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9139550892247766"
-     crossorigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9139550892247766" crossorigin="anonymous"></script>
       </head>
       <body className="min-h-screen flex flex-col bg-zinc-950 text-zinc-100 bg-grid-pattern relative overflow-x-hidden selection:bg-indigo-500/30 selection:text-white">
         {/* Glow ambient background effects wrapped to prevent stretching page height */}
